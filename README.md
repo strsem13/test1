@@ -5,16 +5,16 @@ Anwesend sind:
 Strauß, Strutz, Tuttner, Uhl, Waltl, Wieser, Zitz
 
 **Thema**
-* GIT
+* GIT [GIT Logo]()
 * GitHub
 * Markdown  
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-
-#include <studio.h>
-
+~~~C
+#include <studio.h>  
 int main()  
 {  
   printf("Hallo User");  
   return 0;  
 }  
+~~~
