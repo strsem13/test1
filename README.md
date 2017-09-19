@@ -13,8 +13,8 @@ Strauß, Strutz, Tuttner, Uhl, Waltl, Wieser, Zitz
 
 #include <studio.h>
 
-int main()
-{
-  printf("Hallo User");
-  return 0;
-}
+int main()  
+{  
+  printf("Hallo User");  
+  return 0;  
+}  
