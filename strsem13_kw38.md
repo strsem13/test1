@@ -1,5 +1,5 @@
 # *Protokoll*
-## *Thema: *GitHub*
+## *Thema: GitHub*
  Name:   Sebastian Strutz  
  Klasse: 4AHME  
  Datum: 19.09.2017  
@@ -25,4 +25,6 @@ Eine Versionsverwaltung wird dazu verwendet, um die Verwaltung von Software-Proj
 
 ### *Wichtige Befehle - Markdown*
 * '#' - 1.Hauptüberschrift, '##' 2. - Hauptüberschrift, '###' - 3. ...
-* '**...**' - fett
+* '**...**' - fett, '*...*' - kursiv
+* '*' - Liste
+* 
