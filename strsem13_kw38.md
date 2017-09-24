@@ -15,3 +15,6 @@ Eine Versionsverwaltung wird dazu verwendet, um die Verwaltung von Software-Proj
  GitHub ist ein Online-Dienst der auf Git basiert.
  Dadurch es eine Open Source Software ist können alle Benutzer auf öffentliche Repositories zugreifen.    
  Man kann aber auch ein privates Repository erstellen, aber für dieses müsste man 7$/Monat zahlen.
+ 
+### Wichtige Befehle - Git
+clone -> 
