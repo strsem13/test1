@@ -3,5 +3,15 @@
  Name:   Sebastian Strutz  
  Klasse: 4AHME  
  Datum: 19.09.2017  
- Übungsort: 
+ ### Git
+ Git ist eine kostenlose Software zur Versionsverwaltung von Datein.  
+ Vorteile von Git:   
+        * Repositories werden lokal gespeichert  
+        * Die Versionsverwaltung ist offline verfügbar  
+        
+Eine Versionsverwaltung wird dazu verwendet, um die Verwaltung von Software-Projekten zu erleichtert und die Nutzung von Dateien durch mehrere Benutzer zu ermöglichen. z.B. Wenn man eine ein neues Update installiert, und dieses Update fehlerhaft ist, dass man ohne Probleme wieder auf die alte Version zurückgreifen kann.
  
+ ### GitHub
+ GitHub ist ein Online-Dienst der auf Git basiert.
+ Dadurch es eine Open Source Software ist können alle Benutzer auf öffentliche Repositories zugreifen.    
+ Man kann aber auch ein privates Repository erstellen, aber für dieses müsste man 7$/Monat zahlen.
