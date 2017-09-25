@@ -35,6 +35,7 @@ Eine Versionsverwaltung wird dazu verwendet, um die Verwaltung von Software-Proj
 * '~~~(Programmiersprache z.B. C) .... ~~~' - um einen Quelltext umzuwandeln
 
 ### *Branches*
-Branches sind Verzweigungen, es gibt einen **master-Branch** und "gewönliche-Branches".  
+Für arbeiten and er Version, sollten Branches erstellt werden, um immer eine stabile Version zu behalten.  
+z.B. Wird ein Update in den **master-Branch** hochgeladen, und ein Kunde bemerkt einen Bug, solltest du in kürzester Zeit wieder auf einen funktionierende Version zurückgreifen können, die z.B. in einem anderen Zweig sich befindet.  
 Der **master-Branch** sollte immer die funktionierende Version beinhalten, weil dieser Branch immer benutzt wird.  
-In den "gewönlichen-Branches" kann gearbeitet werden.
+In den "gewönlichen-Branches" kann gearbeitet bzw. experimentiert werden.
