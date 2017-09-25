@@ -5,7 +5,8 @@
  Datum: 19.09.2017  
  ### *Git*
  Git ist eine kostenlose Software zur Versionsverwaltung von Datein.  
- Vorteile von Git:   
+ 
+ **Vorteile von Git:**  
         * Repositories werden lokal gespeichert  
         * Die Versionsverwaltung ist offline verfügbar  
         
@@ -29,4 +30,6 @@ Eine Versionsverwaltung wird dazu verwendet, um die Verwaltung von Software-Proj
 * '*' - Liste
 * '[Name] (Link)'  - Link einfügen bzw.  
 * '![Name] (Link)' - Bild einfügen (Rufzeichen vor der Klammer um den Namen auszublenden, und nur das Bild anzuzeigen)
-* '
+* '~~~(Programmiersprache z.B. C) .... ~~~' - um einen Quelltext umzuwandeln
+
+### Branches
