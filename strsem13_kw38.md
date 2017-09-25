@@ -27,5 +27,6 @@ Eine Versionsverwaltung wird dazu verwendet, um die Verwaltung von Software-Proj
 * '#' - 1.Hauptüberschrift, '##' 2. - Hauptüberschrift, '###' - 3. ...
 * '**...**' - fett, '*...*' - kursiv
 * '*' - Liste
-* '[Name] (Link)' - Link einfügen bzw. Bild einfügen
+* '[Name] (Link)'  - Link einfügen bzw.  
+* '![Name] (Link)' - Bild einfügen (Rufzeichen vor der Klammer um den Namen auszublenden, und nur das Bild anzuzeigen)
 * '
