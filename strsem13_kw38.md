@@ -35,5 +35,5 @@ Eine Versionsverwaltung wird dazu verwendet, um die Verwaltung von Software-Proj
 
 ### Branches
 Branches sind Verzweigungen, es gibt einen **master-Branch** und "gewönliche-Branches".  
-Der **master-Branch** sollte imemr die funktionierende Version beinhalten, weil dieser Branch immer benutz wird.  
+Der **master-Branch** sollte immer die funktionierende Version beinhalten, weil dieser Branch immer benutzt wird.  
 In den "gewönlichen-Branches" kann gearbeitet werden.
