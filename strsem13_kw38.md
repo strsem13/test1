@@ -34,7 +34,7 @@ Eine Versionsverwaltung wird dazu verwendet, um die Verwaltung von Software-Proj
 * '![Name] (Link)' - Bild einfügen (Rufzeichen vor der Klammer um den Namen auszublenden, und nur das Bild anzuzeigen)
 * '~~~(Programmiersprache z.B. C) .... ~~~' - um einen Quelltext umzuwandeln
 
-### Branches
+### *Branches*
 Branches sind Verzweigungen, es gibt einen **master-Branch** und "gewönliche-Branches".  
 Der **master-Branch** sollte immer die funktionierende Version beinhalten, weil dieser Branch immer benutzt wird.  
 In den "gewönlichen-Branches" kann gearbeitet werden.
