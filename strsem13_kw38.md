@@ -26,10 +26,14 @@ Eine Versionsverwaltung wird dazu verwendet, um die Verwaltung von Software-Proj
 
 ### *Wichtige Befehle - Markdown*
 * '#' - 1.Hauptüberschrift, '##' 2. - Hauptüberschrift, '###' - 3. ...
-* '**...**' - fett, '*...*' - kursiv
+* '** **' - fett  
+* '* *' - kursiv
 * '*' - Liste
 * '[Name] (Link)'  - Link einfügen bzw.  
 * '![Name] (Link)' - Bild einfügen (Rufzeichen vor der Klammer um den Namen auszublenden, und nur das Bild anzuzeigen)
 * '~~~(Programmiersprache z.B. C) .... ~~~' - um einen Quelltext umzuwandeln
 
 ### Branches
+Branches sind Verzweigungen, es gibt einen **master-Branch** und "gewönliche-Branches".  
+Der **master-Branch** sollte imemr die funktionierende Version beinhalten, weil dieser Branch immer benutz wird.  
+In den "gewönlichen-Branches" kann gearbeitet werden.
