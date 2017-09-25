@@ -3,6 +3,7 @@
  Name:   Sebastian Strutz  
  Klasse: 4AHME  
  Datum: 19.09.2017  
+ Anwesend: Strutz, Strauß, Tuttner, Uhl, Waltl, Wieser, Zitz  
  ### *Git*
  Git ist eine kostenlose Software zur Versionsverwaltung von Datein.  
  
