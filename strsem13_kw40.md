@@ -7,7 +7,7 @@
  
  ### *Mikroprozessor (µP)*
  Zuerst haben wir den prinzipiellen Aufbau einer CPU besprochen:  
- ![CPU Blockdiagramm]()  
+ ![CPU Blockdiagramm](https://github.com/strsem13/test1/blob/master/Blockdiagramm_CPU.png)  
  Befehlsablauf (Von-Neumann-Architektur):  
  * Reset -> bringt das System CPU in einen Ausgangszustand, der Befehlszähler afu den Wert 0 gesetzt, und die bits im Status-Flag werden zurückgesetzt.
  * Takt -> auch Clock gennant, bestimmt den zeitlichen Ablauf.  
