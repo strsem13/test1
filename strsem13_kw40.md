@@ -27,11 +27,11 @@ Mit Atmel Studio kann man die Ausführung eines Programms auf einem Atmel-Mikrok
 Wir verwenden in der Schule den Mikrocontroller ATmega328p von Atmel, dadurch dieser in Atmel Studio nicht verfügbar ist, verwendeten wir den Mikrocontroller ATmega328.  
 [Datenblatt-ATmega238p](http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf)  
 #### **Produktdaten**  
-* 32 Register  
-* 16MHz Mikroprozessor  
-* 32kB Flash-Speicher  
-* 2kB SRAM  
-* 1kB EEPROM  
+* CPU-Register: 32 (jedes Register bestaht aus 8 bit)  
+* Frequenz: 16MHz   
+* Flash Speicher: 32kB 
+* SRAM: 2kB   
+* EEPROM: 1kB  
 
 #### **XYZ-Register**  
 Wird benötigt um Werte zu speichern, die größer als 255 sind.  
@@ -39,5 +39,20 @@ Setzt sich zusammen aus:
 * X= 26 & 27  
 * Y= 27 & 28  
 * Z= 30 & 31  
+
+### *Stack*  
+Im Stack-Speicher, auch Stapelspeicher, werden Daten nach dem LIFO Verfahren(last-in-first-out) gespeichert. Das heißt, die Daten werden von unten nach oben abgelegt, gelesenn können die Daten aber nur von oben nach unten.  
+um mit dem Speicher zu kommunizieren, benötigt man folgende Operanden:  
+* push: "Legt" die Datei auf den Stapel  
+* pop: Liest das oberste Objekt aus, und entfernt es vom Stack  
+* peek: List das oberste Objekt aus, und behält es am Stack  
+
+#### *Stackpointer*  
+Der Stackpointer zeigt immer auf den nächsten freien Platz im Stack-Speicher. Das gefährliche an einem Stack ist der sogennante "**Stackoverflow**". **Stackoverflow** bedeutet, dass der Stack-Speicher voll ist, und wenn das passiert, ist es möglich bzw. sehr wahrscheinlich dass das System abstürtzt.  
+
+### *Debugger*  
+
+
+
 
 
