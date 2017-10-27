@@ -19,5 +19,25 @@
  
  ### *Atmel Studio*  
 Atmel Studio (früher AVR-Studio) ist eine Open-Source Software zur Programmierung der AVR-Mikroprozessoren. Es basiert auf der Visual Studio Shell von Microsoft und besteht aus einer Projektverwaltung, einem Editor, einem Debugger und Werkzeugen zum Beschreiben eines Mikroprozessors.  
+
 Mit dem Atmel Studio kann in Assembler sowie in C/C++ programmiert werden.  
+Mit Atmel Studio kann man die Ausführung eines Programms auf einem Atmel-Mikrokontroller simulieren. Man erhält detaillierte Informationen über die Maschinenbefehle, die aus dem Quellcode kompiliert wurden. Außerdem hat man Einblick in die Register des Controllers.  
+
+### *ATmega328p*  
+Wir verwenden in der Schule den Mikrocontroller ATmega328p von Atmel, dadurch dieser in Atmel Studio nicht verfügbar ist, verwendeten wir den Mikrocontroller ATmega328.  
+[Datenblatt-ATmega238p](http://www.atmel.com/Images/Atmel-42735-8-bit-AVR-Microcontroller-ATmega328-328P_Datasheet.pdf)  
+#### **Produktdaten**  
+* 32 Register  
+* 16MHz Mikroprozessor  
+* 32kB Flash-Speicher  
+* 2kB SRAM  
+* 1kB EEPROM  
+
+#### **XYZ-Register**  
+Wird benötigt um Werte zu speichern, die größer als 255 sind.  
+Setzt sich zusammen aus:  
+* X= 26 & 27  
+* Y= 27 & 28  
+* Z= 30 & 31  
+
 
